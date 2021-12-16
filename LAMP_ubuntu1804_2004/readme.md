@@ -31,7 +31,7 @@ nano vars/default.yml
 ```yml
 ---
 mysql_root_password: "mysql_root_password"
-app_user: "user"
+app_user: "vagrant"
 http_host: "domain_name"
 http_conf: "domain_name.conf"
 http_port: "80"
