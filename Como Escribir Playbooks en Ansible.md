@@ -2,7 +2,7 @@
 
 ### Introducción
 
-Ansible es una herramienta de administración que no requiere el uso de un agente instalado en los nodos remotos a configurar. Solo requiere SSH y Python para comunicarse y ejecutar comandos en servidores administrados.
+Ansible es una herramienta de administración que no requiere el uso de un agente instalado en los nodos remotos a configurar. Sólo requiere SSH y Python para comunicarse y ejecutar comandos en servidores administrados.
 
 Ansible permite a los usuarios administrar servidores de dos formas diferentes: mediante comandos ad hoc y mediante playbooks. Los playbooks son archivos YAML que contienen una lista de tareas ordenadas que deben ejecutarse en un servidor remoto para completar una tarea o alcanzar un objetivo determinado, como configurar un entorno LAMP. Los playbooks permiten automatizar completamente la configuración de un servidor y la implementación de aplicaciones, utilizando una sintaxis determinada y una extensa biblioteca de módulos.
 
