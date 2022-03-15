@@ -14,5 +14,5 @@ SELECT NOW();
 
 DATABASE:
 SHOW DATABASES;
-USE "tabla";
+USE "database";
 SHOW TABLES;
