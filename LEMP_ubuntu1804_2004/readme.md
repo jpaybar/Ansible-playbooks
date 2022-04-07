@@ -1,5 +1,9 @@
 # LEMP on Ubuntu 18.04/20.04
 
+###### By Juan Manuel Payán / jpaybar
+
+st4rt.fr0m.scr4tch@gmail.com
+
 This playbook will install a LEMP environment on an Ubuntu 18.04/20.04 machine, 
 A virtualhost will be created with the options specified in the `vars/default.yml` variable file. You can find a Nginx virtualhost template (jinja2 file) in the files/nginx.conf.j2 and two others files (index.html.j2, info.php.j2 ) for testing purposes.
 
