@@ -1,5 +1,9 @@
 # Docker and containers deployment on Ubuntu 20.04
 
+###### By Juan Manuel Payán / jpaybar
+
+st4rt.fr0m.scr4tch@gmail.com
+
 This playbook will install Docker on Ubuntu 20.04 machine behind a proxy and deploy
 a number of containers that will be created with the options specified in the `vars/variables.yml` variable file.
 
