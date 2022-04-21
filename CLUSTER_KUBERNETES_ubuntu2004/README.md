@@ -1,4 +1,8 @@
-# Instalar Cluster de Kubernetes en Ubuntu Server 20.04
+# Instalación manual de un Cluster de Kubernetes en Ubuntu Server 20.04
+
+###### By Juan Manuel Payán / jpaybar
+
+st4rt.fr0m.scr4tch@gmail.com
 
 Los requisitos minimos para formar el cluster tanto en el nodo Master como en los Workers son de 2GB de memoria RAM y 2 CPU's.
 
