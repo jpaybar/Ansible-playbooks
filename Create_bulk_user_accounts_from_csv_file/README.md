@@ -5,11 +5,8 @@
 [st4rt.fr0m.scr4tch@gmail.com](mailto:st4rt.fr0m.scr4tch@gmail.com)
 
 This playbook creates users in bulk from a .csv file, creates the "wheel" group
-
 for those users and gives them "sudo" permission. The generic password is read
-
 from a file encrypted with "ansible-vault", users will have to change the password
-
 the first time they log in to the system.
 
 Link:
